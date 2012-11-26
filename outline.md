@@ -24,6 +24,9 @@ Attribution: @fat and mustache js
 
 // TODO: I forgot LANGUAGE agnostic on my submission ;_;
 
+// TODO: Should we include the TDD as data discussion?
+
+// TODO: Don't forget notes on how fucking subtle the .next part is
 
 *****************
 
