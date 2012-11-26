@@ -20,3 +20,19 @@ Getting the right balance of code coverage
 TODO: Don't forget about Human Schema
 
 Attribution: @fat and mustache js
+
+
+*****************
+
+Submitted to JSConf 2013
+
+# Making programming normal
+## A dialog on changes from TDD to BDD and what lies in the future.
+
+The main nerdgasming points are:
+- We can make tests purely data (e.g. JSON)
+    - Makes everything test framework agnostic (swap between mocha, vows, and jasmine freely)
+    - Much DRYer tests themselves (common assertions are easily abstracted away)
+- Faster translation from language process
+- Code coverage worries and lengthy test maintenance dissolves
+    - You test only what you are going to be using
