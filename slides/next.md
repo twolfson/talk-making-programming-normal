@@ -10,4 +10,4 @@
 
 // This has two perks -- One, this is not just test framework agnostic but **language** agnostic. Two, we can write a skeleton ahead of time and as we think of more items to test without penalty/distraction. Three, we can effort-lessly re-use parts (yes, technically, we could do this before but that involved pre-mature effort).
 
-// The only gotcha is semantics need to be the same.
+// Semantics is a bit of a gotcha for re-use but that can be solved via further abstraction

@@ -1,17 +1,24 @@
-```js
-// Easily combine commands into one command
-// which *itself* could be tested
+# The Next
+
+## Next rungs on the ladder
+
+### Aliasing
+// TODO: Use better code example
+```
 {
-  'algorithm': ['algo1', 'algo2', 'algo3']
-  // or in grunt world 'algo1, algo2, algo3'
+  'xyz': function () {
+    return 3;
+  },
+  'abc': 'xyz'
 }
 ```
 
-
+### Chaining
+// Easily combine commands into one command
+// which *itself* could be tested
 ```js
-// Gotchas you might be curious about
 {
-  // Since names can be quite brittle, we can alias them to simpler forms
-  // This is kind of frustrating if you want to tweak wording so I would love to hear suggestions
-  'abc': 'xyz'
+  'megaAlgo': ['algo1', 'algo2', 'algo3']
+  // or in grunt could be 'algo1, algo2, algo3'
 }
+```
