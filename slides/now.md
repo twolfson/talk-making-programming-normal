@@ -21,4 +21,3 @@
 // As a result, any assertion that fails will quickly compose the sentence leading up to it
 
 // e.g. `A banana that is peeled is soft (Expected: true, Actual: false)` quickly tells us that something is wrong in the `peel` method since the assertion for `A banana is hard` asserted properly.
-
