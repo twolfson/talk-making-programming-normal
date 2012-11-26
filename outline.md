@@ -22,6 +22,9 @@ TODO: Don't forget about Human Schema
 Attribution: @fat and mustache js
 
 
+// TODO: I forgot LANGUAGE agnostic on my submission ;_;
+
+
 *****************
 
 Submitted to JSConf 2013
