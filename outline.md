@@ -28,6 +28,8 @@ Attribution: @fat and mustache js
 
 // TODO: Don't forget notes on how fucking subtle the .next part is
 
+// TODO: When convert into HTML, update closing title slide URL
+
 *****************
 
 Submitted to JSConf 2013
