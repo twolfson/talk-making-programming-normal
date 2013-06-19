@@ -1,4 +1,4 @@
-# talk-making-programming-normal
+# talk-making-programming-normal [![Donate on Gittip](http://badgr.co/gittip/twolfson.png)](https://www.gittip.com/twolfson/)
 
 Talk on making programming normal
 
